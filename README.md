@@ -1,4 +1,4 @@
-<img width="1512" alt="Screenshot 2024-12-13 at 8 14 06 PM" src="https://github.com/user-attachments/assets/4633925b-7400-49af-9789-2ac6c39ebb28" /><img width="1512" alt="Screenshot 2024-12-13 at 8 11 41 PM" src="https://github.com/user-attachments/assets/ad4ef939-c307-457e-9e50-726eba5c6b60" /># 🚦 US Accident Prediction System
+# 🚦 US Accident Prediction System
 
 ### Description:
 The US Accident Prediction System is a machine learning-based application designed to predict the severity of road accidents based on weather conditions, location data, and time of day. The system provides real-time insights and recommendations to enhance road safety by helping users and emergency services make informed decisions.
@@ -110,8 +110,8 @@ View Results:
 See the predicted accident severity.
 View location markers on an interactive map.
 Get recommended actions based on the prediction.
-<img width="1512" alt="Screenshot 2024-12-13 at 8 14 06 PM" src="https://github.com/user-attachments/assets/dc781f0e-bb97-48e7-bf75-48322b619268" />
-<img width="1512" alt="Screenshot 2024-12-13 at 8 11 49 PM" src="https://github.com/user-attachments/assets/4c9c4da1-44c0-45d4-b576-2472efb90cd5" />
+<img width="1512" alt="Screenshot 2024-12-13 at 8 14 06 PM" src="https://github.com/user-attachments/assets/4633925b-7400-49af-9789-2ac6c39ebb28" />
+<img width="1512" alt="Screenshot 2024-12-13 at 8 11 41 PM" src="https://github.com/user-attachments/assets/ad4ef939-c307-457e-9e50-726eba5c6b60" />
 
 
 
